@@ -98,6 +98,6 @@ If you use MedEval in your research or evaluation workflows, please cite it as:
 Please cite the following as well:
 
 **G-Eval Evaluation Framework**  
-Liu, Yujia, et al. *G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment.* arXiv preprint arXiv:2305.13278 (2023).  
-[https://arxiv.org/abs/2305.13278](https://arxiv.org/abs/2305.13278)
+Liu, Y., Iter, D., Xu, Y., Wang, S., Xu, R., & Zhu, C. (2023). *G-eval: NLG evaluation using gpt-4 with better human alignment.* arXiv preprint arXiv:2303.16634.
+[https://doi.org/10.48550/arXiv.2303.16634]
 
